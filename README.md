@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-card-component-made-with-htmlcss-and-flexbox-EGYSvKPBL)
 - Live Site URL: [Netlify live site](https://optimistic-newton-b937d3.netlify.app/)
 
 ## My process
